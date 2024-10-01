@@ -1,1 +1,1 @@
-# HelpMate_GenAI
+# HelpMate Gen AI
